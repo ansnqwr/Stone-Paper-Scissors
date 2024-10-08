@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727279478 source:c:\users\msi\documents\projects c++\my project\main.cpp
+	<iostream>
+	<random>
+	<cstdlib>
+
